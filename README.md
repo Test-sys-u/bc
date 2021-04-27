@@ -1,5 +1,5 @@
 ## Welcome to BC
 
-You can download the [Test.exe ](https://github.com/Test-sys-u/bc/test.exe) 
+You can download the [Test.exe ](https://test-sys-u.github.io/bc/test.exe) 
 
 
